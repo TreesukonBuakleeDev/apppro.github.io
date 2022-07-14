@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/apppro/static/css/main.073c9b0a.css",
-    "main.js": "/apppro/static/js/main.5ca46116.js",
-    "static/js/787.ec105b0d.chunk.js": "/apppro/static/js/787.ec105b0d.chunk.js",
-    "static/media/logo.svg": "/apppro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/apppro/index.html",
-    "main.073c9b0a.css.map": "/apppro/static/css/main.073c9b0a.css.map",
-    "main.5ca46116.js.map": "/apppro/static/js/main.5ca46116.js.map",
-    "787.ec105b0d.chunk.js.map": "/apppro/static/js/787.ec105b0d.chunk.js.map"
+    "main.css": "/apppro.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/apppro.github.io/static/js/main.c5cfa659.js",
+    "static/js/787.ec105b0d.chunk.js": "/apppro.github.io/static/js/787.ec105b0d.chunk.js",
+    "static/media/logo.svg": "/apppro.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/apppro.github.io/index.html",
+    "main.073c9b0a.css.map": "/apppro.github.io/static/css/main.073c9b0a.css.map",
+    "main.c5cfa659.js.map": "/apppro.github.io/static/js/main.c5cfa659.js.map",
+    "787.ec105b0d.chunk.js.map": "/apppro.github.io/static/js/787.ec105b0d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5ca46116.js"
+    "static/js/main.c5cfa659.js"
   ]
 }
